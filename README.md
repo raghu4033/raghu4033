@@ -5,7 +5,7 @@
 📧 **Email:** [harshadsatasiya101@gmail.com](mailto:harshadsatasiya101@gmail.com)  
 🌐 **Portfolio:** [HarshadSatasiya.com](https://HarshadSatasiya.com)  
 🔗 **LinkedIn:** [linkedin.com/in/harshadsatasiya](https://linkedin.com/in/harshadsatasiya)  
-💻 **GitHub:** [github.com/HarshadSatasiya](https://github.com/HarshadSatasiya)  
+💻 **GitHub:** [github.com/HarshadSatasiya](https://github.com/raghu4033)  
 
 ---
 
@@ -109,7 +109,7 @@ As a **Python Developer** with over **4 years of IT experience**, I specialize i
 ---
 
 ## 📈 **GitHub Stats**
-![Harshadkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshadSatasiya&show_icons=true&theme=radical)
+![Harshadkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghu4033&show_icons=true&theme=radical)
 
 ---
 
