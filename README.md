@@ -109,11 +109,8 @@ As a **Python Developer** with over **4 years of IT experience**, I specialize i
 ---
 
 ## 📈 **GitHub Stats**
-![Harshadkumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghu4033&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu4033&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raghu4033&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raghu4033&langs_count=8)
 
-![](https://komarev.com/ghpvc/?username=HarshadSatasiya&color=blue&style=flat-square)
 
 ---
 
