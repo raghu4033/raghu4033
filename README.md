@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to My GitHub!
+Hi, I'm **Raghu**, a passionate developer specializing in web development and software engineering.
 
-<!--
-**raghu4033/raghu4033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
+- Programming: Python, JavaScript, .NET
+- Frameworks: React, Django, ASP.NET
+- Tools: Git, Docker, VS Code
 
-Here are some ideas to get you started:
+## 🌟 Projects
+- [E-commerce Website](https://github.com/raghu4033/ecommerce-project)  
+  A full-stack project using React and Django.
+- [Portfolio Website](https://github.com/raghu4033/portfolio)  
+  My personal website built with HTML, CSS, and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact Me
+- Email: raghu@example.com
+- LinkedIn: [linkedin.com/in/raghu](https://linkedin.com/in/raghu)
