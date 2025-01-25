@@ -5,7 +5,7 @@
 📧 **Email:** [harshadsatasiya101@gmail.com](mailto:harshadsatasiya101@gmail.com)  
 🌐 **Portfolio:** [HarshadSatasiya.com](https://HarshadSatasiya.com)  
 🔗 **LinkedIn:** [linkedin.com/in/harshadsatasiya](https://linkedin.com/in/harshadsatasiya)  
-💻 **GitHub:** [github.com/HarshadSatasiya](https://github.com/raghu4033)  
+💻 **GitHub:** [github.com/raghu4033](https://github.com/raghu4033)  
 
 ---
 
